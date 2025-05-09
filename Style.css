@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar{
+    background-color: rgb(250, 239, 239);
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0px;
+    height: 100px;
+    width: 100%;
+
+
+}
+.logo-section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.logo-section img{
+    height: 80px;
+    width: 70px;
+    border-radius: 40%;
+}
+.navlinks{
+    display: flex;
+    justify-content: space-between;
+}
+.navlinks a{
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    padding-top: 30px;
+
+}
+.background{
+    /* border: 1px solid green; */
+    height: 50px;
+    width: 80px;
+    margin-top: 100px;
+    padding-left: 10px;
+    color: black;
+
+}
+h1{
+    font-size: 30px;
+    color: black;
+}
+.main-box{
+    /* border: 1px solid red; */
+    display: flex;
+    height:200px ;
+    gap: 20px;
+    padding-left: 70px;
+    /* padding-bottom: 20px; */
+    /* background-color: rgb(238, 132, 175); */
+    margin-top: 30px;
+
+
+}
+.child{
+    /* border: 2px solid red; */
+   
+    height: 200px;
+    width: 200px;
+    padding-left: 70px;
+
+}
+.child img{
+    height: 200px;
+    width: 200px;
+
+}
+.main-box1{
+    /* border: 1px solid red; */
+    display: flex;
+    height:200px ;
+    gap: 20px;
+    padding-left: 70px;
+    /* padding-bottom: 20px; */
+    /* background-color: rgb(207, 182, 150); */
+    margin-top: 30px;
+
+
+}
+.child{
+    height: 150px;
+    width: 150px;
+    /* padding-left: 70px; */
+
+}
+
+
+    
+
+.background1{
+    /* border: 1px solid gray; */
+    margin-top: 20px;
+    padding-left: 1430px;
+    color: rgb(240, 180, 174);
+    font-size: inherit;
+}
+.footer{
+    /* background-color: rgb(225, 194, 253); */
+    max-height: 1200px;
+
+}
+.two-parts{
+    display: flex;
+    gap: 500px;
+    text-align: center;
+    align-items: center;
+    /* border: 2px solid black; */
+    width: fit-content;
+    margin-left: 200px;
+    color: black;
+    margin-top: 40px;
+
+}
+.Authors{
+    color: black;
+}
+.icon-section{
+    height: 40px;
+    width: 450px;
+    display: flex;
+    margin-left: 600px;
+    gap: 10px;
+}
+
+
+
+
+
+
